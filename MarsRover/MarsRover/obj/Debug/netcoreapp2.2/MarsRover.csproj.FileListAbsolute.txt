@@ -1,0 +1,10 @@
+C:\Users\hari.afo\source\repos\MarsRover\MarsRover\bin\Debug\netcoreapp2.2\MarsRover.deps.json
+C:\Users\hari.afo\source\repos\MarsRover\MarsRover\bin\Debug\netcoreapp2.2\MarsRover.runtimeconfig.json
+C:\Users\hari.afo\source\repos\MarsRover\MarsRover\bin\Debug\netcoreapp2.2\MarsRover.runtimeconfig.dev.json
+C:\Users\hari.afo\source\repos\MarsRover\MarsRover\bin\Debug\netcoreapp2.2\MarsRover.dll
+C:\Users\hari.afo\source\repos\MarsRover\MarsRover\bin\Debug\netcoreapp2.2\MarsRover.pdb
+C:\Users\hari.afo\source\repos\MarsRover\MarsRover\obj\Debug\netcoreapp2.2\MarsRover.csproj.CoreCompileInputs.cache
+C:\Users\hari.afo\source\repos\MarsRover\MarsRover\obj\Debug\netcoreapp2.2\MarsRover.AssemblyInfoInputs.cache
+C:\Users\hari.afo\source\repos\MarsRover\MarsRover\obj\Debug\netcoreapp2.2\MarsRover.AssemblyInfo.cs
+C:\Users\hari.afo\source\repos\MarsRover\MarsRover\obj\Debug\netcoreapp2.2\MarsRover.dll
+C:\Users\hari.afo\source\repos\MarsRover\MarsRover\obj\Debug\netcoreapp2.2\MarsRover.pdb
